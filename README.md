@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Meek 👋
 
-<!--
-**meek48/Meek48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Marketer | Social Media Management | Content Creation
 
-Here are some ideas to get you started:
+I help small businesses grow online with clear, consistent content and simple ad strategies that actually bring in customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Social Media Management (Facebook, Instagram, TikTok)
+- Content Creation & Captions
+- Facebook & Instagram Ads
+- Digital Marketing Strategy for Small Businesses
+
+### Portfolio
+Check my repo: digital-marketing-portfolio
+
+### Let's work together
+Find me on Upwork — search Meek48
